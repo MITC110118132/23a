@@ -31,7 +31,7 @@ var s = "javascript syntax text";
 alert(s)
 ``` 
 
-| Left-Aligned  | Center Aligned  | Right Aligned |
+| 左列  | 中間列  | 右列 |
 | :------------ |:---------------:| -----:|
 | 別問就是蘿莉      | Yeah | $1600 |
 | 別問就是蘿莉      | Yeah        |   $12 |
