@@ -9,5 +9,4 @@
 ![image](https://github.com/MITC110118132/23a/blob/main/owo_background.png)
 
 
-for i in range(0,10):
-  print(i)
+<script src="https://gist.github.com/MITC110118132/32d9b76a7ced6dc22364f612f6a193fe.js"></script>
