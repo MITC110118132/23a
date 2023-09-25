@@ -14,6 +14,6 @@
 
 ```嗨嗨```
 
-`Py = "Python Highlights Syntax"
+Py = "Python Highlights Syntax"
 print(Py)
-`
+
