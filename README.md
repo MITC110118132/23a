@@ -33,7 +33,7 @@ alert(s)
 
 | Left-Aligned  | Center Aligned  | Right Aligned |
 | :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
-|test | 測試        |   $3333 |
+| 別問就是蘿莉      | Yeah | $1600 |
+| 別問就是蘿莉      | Yeah        |   $12 |
+| 別問就是蘿莉 | Yeah       |    $1 |
+|蘿莉拉 | 對 就是蘿莉        |   $3333 |
