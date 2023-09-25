@@ -17,4 +17,3 @@
 `Py = "Python Highlights Syntax"
 print(Py)
 `
-<script src="https://gist.github.com/MITC110118132/32d9b76a7ced6dc22364f612f6a193fe.js"></script>
