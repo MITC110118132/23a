@@ -48,6 +48,12 @@ alert(s)
 | 別問就是蘿莉 | Yeah       |    $66 |
 |蘿莉拉 | 對 就是蘿莉        |   $6 |
 
+
+ |Table |Are  |Cool|
+|------------|:-----------:|---:|
+|col 3 is      |right-aligned|$1600|
+|col 2 is      |centered     |$12  |
+|zebra stripes |are neat     |$1   |
  　
 |Markdown|Less     |Pretty       |
 | :------| :-------|:---------|
