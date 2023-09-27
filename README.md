@@ -13,6 +13,7 @@
 ![image](https://github.com/MITC110118132/23a/blob/main/owo_background.png)
 
 ```嗨嗨```
+`蘿莉讚啦`
 
 - [x] 蘿莉
 - [x] 蘿莉
