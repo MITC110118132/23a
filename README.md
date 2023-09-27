@@ -20,12 +20,14 @@
 - [x] 蘿莉
 - [x] 蘿莉
 
+
+《Code－Python》
 ```python
 Py = "Python Highlights Syntax"
 print(Py)
 ``` 
 
-
+《Code－JavaScript》
 ```js
 var s = "javascript syntax text";
 alert(s)
