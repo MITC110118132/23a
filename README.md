@@ -40,7 +40,7 @@ var s = "javascript syntax text";
 alert(s)
 ``` 
 
-《Table》
+《Table 1》
 | 左列 | 中間列  | 右列 |
 | :------------ |:---------------:| -----:|
 | 別問就是蘿莉      | Yeah | $6666 |
@@ -48,13 +48,14 @@ alert(s)
 | 別問就是蘿莉 | Yeah       |    $66 |
 |蘿莉拉 | 對 就是蘿莉        |   $6 |
 
-
+《Table 2》
  |Table |Are  |Cool|
 |------------|:-----------:|---:|
 |col 3 is      |right-aligned|$1600|
 |col 2 is      |centered     |$12  |
 |zebra stripes |are neat     |$1   |
- 　
+
+《Table 3》
 |Markdown|Less     |Pretty       |
 | :------| :-------|:---------|
 |*Still*   |`renders`|**nicely**|
