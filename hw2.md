@@ -2,8 +2,7 @@
 
 ### Mermaid
 
-```mermaid
-gantt
+```gantt
     C110118157任務清單
     section 任務
     研礙計劃           :a1, 2023-09-01, 1d
