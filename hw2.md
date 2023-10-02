@@ -33,5 +33,7 @@ digraph {
 }
 ```
 
+![image](https://github.com/MITC110118132/23a/blob/main/PERT.png)
+
 
 # 關鍵路徑
