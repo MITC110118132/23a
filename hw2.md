@@ -59,5 +59,3 @@ digraph {
 1 -> 2 -> 4 -> 6 -> 9 -> 11
 ```
 
-
-![image](https://github.com/MITC110118132/23a/blob/main/Nahida.png)
