@@ -4,7 +4,7 @@
 
 ```mermaid
 gantt
-    繪製甘特圖
+    title a Gantt Diagram
 
     section Section
     A task           :a1, 2014-01-01, 30d
