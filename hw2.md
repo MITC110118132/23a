@@ -17,7 +17,7 @@ gantt
 gantt
     title C110118132
 
-    section 任務
+    section 任務清單
     研礙計劃           :a1, 2023-09-01, 1d
     任務分配           :a2, after a1  , 4d
     取得硬體           :a3, after a1  , 17d
