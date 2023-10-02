@@ -1,7 +1,8 @@
 # 甘特圖
 
 ### Mermaid
-```gantt
+```mermaid
+gantt
     title a Gantt Diagram
 
     C110118132
