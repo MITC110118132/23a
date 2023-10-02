@@ -3,7 +3,7 @@
 ### Mermaid
 ```mermaid
 gantt
-    title A Gantt Diagram
+    任務清單
 
     section Section
     A task           :a1, 2014-01-01, 30d
