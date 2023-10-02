@@ -5,8 +5,8 @@
 gantt
     title a Gantt Diagram
 
-    C110118157任務清單
-    section 任務
+    C110118132
+    section
     研礙計劃           :a1, 2023-09-01, 1d
     任務分配           :a2, after a1  , 4d
     取得硬體           :a3, after a1  , 17d
