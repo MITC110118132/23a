@@ -46,7 +46,7 @@ gantt
     程式打包           :a8, after a6  , 20d
     EXE測試           :a9, after a6  , 5d
     使用者測試         :a10, after a6  , 25d
-    問卷調查           :a11, after a11 , 5d
+    問卷調查           :a11, after a10 , 5d
 ```
 
 # PERT 圖
