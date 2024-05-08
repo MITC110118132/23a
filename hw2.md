@@ -43,9 +43,9 @@ gantt
     程式測試           :a5, after a4  , 60d
     程式更新、優化           :a6, after a4  , 30d
     撰寫使用手冊        :a7, after a6  , 25d
-    程式打包           :a8, after a7  , 20d
-    EXE測試           :a9, after a7  , 5d
-    使用者測試         :a10, after a7  , 25d
+    程式打包           :a8, after a6  , 20d
+    EXE測試           :a9, after a6  , 5d
+    使用者測試         :a10, after a6  , 25d
 ```
 
 # PERT 圖
