@@ -45,7 +45,7 @@ gantt
     撰寫使用手冊        :a7, after a6  , 25d
     程式打包           :a7, after a5  , 20d
     EXE測試           :a9, after a7  , 5d
-    使用者測試         :a10, after a9  , 25d
+    使用者測試         :a10, after a7  , 25d
 ```
 
 # PERT 圖
