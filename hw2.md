@@ -31,6 +31,23 @@ gantt
     使用者測試         :a11, after a9  , 25d
 ```
 
+```mermaid
+gantt
+    title AI Transcribe
+
+    section 專案規劃
+    研礙計劃           :a1, 2023-09-01, 1d
+    選擇開發工具           :a2, after a1  , 4d
+    設計功能架構、UI編成           :a3, after a1  , 17d
+    程式開發           :a4, after a2  , 210d
+    程式測試           :a5, after a4  , 60d
+    程式更新、優化           :a6, after a4  , 30d
+    撰寫使用手冊        :a7, after a6  , 25d
+    程式打包           :a7, after a5  , 20d
+    EXE測試           :a9, after a7  , 5d
+    使用者測試         :a10, after a9  , 25d
+```
+
 # PERT 圖
 ```graphviz
 digraph {
