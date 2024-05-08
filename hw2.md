@@ -41,7 +41,7 @@ gantt
     設計功能架構、UI編成           :a3, after a1  , 17d
     程式開發           :a4, after a2  , 210d
     程式測試           :a5, after a4  , 60d
-    程式更新、優化           :a6, 2024-03-20  , 30d
+    程式更新、優化           :a6, 2024-03-01  , 30d
     撰寫使用手冊        :a7, after a6  , 25d
     程式打包           :a8, after a6  , 20d
     EXE測試           :a9, after a6  , 5d
